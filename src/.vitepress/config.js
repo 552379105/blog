@@ -19,8 +19,8 @@ module.exports = {
     docsBranch: 'main',
     nav: [
       { text: '专业技能', link: '/tech/' },
-      { text: '通用能力', link: '/manage/' },
-      { text: '职场心得', link: '/job/interview/' },
+      // { text: '通用能力', link: '/manage/' },
+      // { text: '职场心得', link: '/job/interview/' },
       { text: '关于小编', link: '/about/' },
       {
         text: '常用网址',
