@@ -16,4 +16,4 @@ npm start
 npm run pd
 ```
 访问地址：
-[https://github.com/552379105/guoyaxing-blog](https://github.com/552379105/guoyaxing-blog)
+[https://github.com/552379105/blog](https://github.com/552379105/blog)

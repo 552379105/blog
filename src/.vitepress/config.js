@@ -13,7 +13,7 @@ module.exports = {
   description: '直挂云帆济沧海~',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }]],
   themeConfig: {
-    repo: 'kongwutw/blog',
+    repo: '552379105/blog',
     logo: '/logo.png',
     docsDir: 'docs',
     docsBranch: 'main',
