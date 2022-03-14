@@ -16,4 +16,4 @@ npm start
 npm run pd
 ```
 访问地址：
-[https://kongwutw.github.io/blog/](https://kongwutw.github.io/blog/)
+[https://github.com/552379105/guoyaxing-blog](https://github.com/552379105/guoyaxing-blog)

@@ -9,8 +9,8 @@ module.exports = {
   "lang": "zh-cn",
   outDir: '../docs',
   base:'/blog/',
-  title: '空无',
-  description: '让全栈编程更容易~',
+  title: 'GYX',
+  description: '直挂云帆济沧海~',
   head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.png' }]],
   themeConfig: {
     repo: 'kongwutw/blog',
